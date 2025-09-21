@@ -131,3 +131,8 @@ html, body {
   color: #fff;
 }
 
+
+.footer {
+  background: #7287c0; color:#fff; text-align:center;
+  padding: 12px 10px; font-size:14px;
+}
